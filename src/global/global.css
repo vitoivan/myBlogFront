@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+body, html {
+	padding: 0;
+	margin: 0;
+}
+
+.App { 
+	background: #f9f9f9;
+}
+
+.container {
+	max-width: 1366px;
+	margin: 0 auto;
+	height: 100%;
+}
+
+
+ul {
+}
+
+a {
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
